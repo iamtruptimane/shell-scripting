@@ -45,7 +45,7 @@ greet  # Using the function
 
 Imagine your script as a story. Functions are characters, and they need an introduction before they can play their part. So, always put their introduction at the beginning!
 
-![function order](https://github.com/iamtruptimane/shell-scripting/blob/main/function_in_shell_script/img)
+![function order](https://github.com/iamtruptimane/shell-scripting/tree/main/function_in_shell_script/img)
 
 In simpler terms, when you're using functions in a script, it's important to know that a function can call another function. Imagine you have two functions: one called `hello` and another called `now`. If `hello` calls `now`, the order in which you define them matters.
 
