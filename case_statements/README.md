@@ -82,7 +82,7 @@ esac
 
 ### Multiple Matches:
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/28d73a5c-e0cd-4c22-ba97-f0a5b1a9c59f/b585f33d-2ff5-4d93-bd50-f21d20adbfcf/Screenshot_from_2023-12-14_10-40-51.png)
+![image](https://github.com/iamtruptimane/shell-scripting/tree/main/case_statements/img)
 
 1. **User Input Case Statement:**
     - The script asks the user to input a response, storing it in the variable `answer`.
